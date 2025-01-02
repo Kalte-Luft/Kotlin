@@ -12,15 +12,6 @@ FirstApp/
 │   ├── main/
 │   │   ├── kotlin/
 │   │   │   └── org/src/firstapp/
-│   │   │       ├── HelloApplication.kt
-│   │   │       └── HelloController.kt
-│   └── main/resources/
-│           └── org/src/firstapp/
-│               └── hello-view.fxml
-├── target/
-│   └── classes/  (Thư mục chứa file biên dịch)
-├── pom.xml       (File cấu hình Maven nếu dùng Maven)
-└── module-info.java
 ```
 
 ---
@@ -93,9 +84,6 @@ Mọi đóng góp để cải thiện dự án này đều được hoan nghênh
 
 ---
 
-## Tác giả
-
-- **Họ Tên** - [Your Name](https://github.com/your-profile)
 
 ---
 
